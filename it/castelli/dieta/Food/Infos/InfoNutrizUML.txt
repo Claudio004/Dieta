@@ -1,0 +1,18 @@
+									InfoNutriz
+------------------------------------------------------------------------------------
+								  Attributi:
+	- Carbs: float
+	- Fat: float
+	- Proteins = float
+------------------------------------------------------------------------------------
+									Metodi:
+	+ InfoNutriz()
+	+ InfoNutriz(Carbs: float, Fat: float, Proteins: float)
+	+ setCarbs(float Carbs) : void
+	+ getCarbs() : float
+	+ setFat(float Fat) : void
+	+ getFat() : float
+	+ setProteins(float Proteins) : void
+	+ getProteins() : void
+	+ toString() : String
+------------------------------------------------------------------------------------
