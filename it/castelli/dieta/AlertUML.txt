@@ -1,0 +1,15 @@
+									Alert
+------------------------------------------------------------------------------------
+								  Attributi:
+	- JOptionPane optionPane
+------------------------------------------------------------------------------------
+									Metodi:
+	+ Alert()
+	+ adderErrorAlert() : void
+	+ adderConfirmAlert() : void
+	+ errorNameResolve() : void
+	+ errorTypeResolve() : void
+	+ errorCarbsValueResolve() : void
+	+ errorFatValueResolve() : void
+	+ errorProteinsValueResolve() : void
+------------------------------------------------------------------------------------

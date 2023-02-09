@@ -1,0 +1,41 @@
+									Window
+------------------------------------------------------------------------------------
+								  Attributi:
+	- Frame : JFrame
+	- Panel : JPanel
+	- OP : JOptionPane
+	- Buttons[] : JButton[]
+	- ButtonsViewer : Vector<JButton>
+	- ViewerPiatti : Vector<JTextField>
+	- TextField[] : JTextField[]
+	- MenuBar : JMenuBar
+	- Options : JMenu
+	- ViewPasti : JMenuItem
+	- AddPasto : JMenuItem
+	- Exit : JMenuItem
+	- Label[] : JLabel[]
+	- Primo : JRadioButton
+	- Secondo : JRadioButton
+	- Contorno: JRadioButton
+	- Frutta : JRadioButton
+	- Type : ButtonGroup
+	- Pasti : Vector<Pasto>
+	- piatto : Piatto
+------------------------------------------------------------------------------------
+									Metodi:
+	+ Window()
+	- setFrameProprieties() : void
+	- setStartPanelProprieties() : void
+	- setMenuProprieties() : void
+	- setLabels() : void
+	- setButtons() : void
+	- setAdderPanelProprieties() : void
+	- setInputAdderFields() : void
+	- setRadioButtonsProprieties() : void
+	- setButtonGroup() : void
+	- setButtonsViewerProprieties() : void
+	- setViewPastiPanelProprieties() : void
+	- setViewerPiattiProprieties(num : int) : void
+	- setViewerPiattiPanelProprieties() : void
+	+ actionPerformed(e : ActionEvent) : void
+------------------------------------------------------------------------------------
