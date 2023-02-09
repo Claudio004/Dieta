@@ -1,0 +1,21 @@
+									Piatto
+------------------------------------------------------------------------------------
+								  Attributi:
+	- Nome : String
+	- Tipo : Type
+	- Info : InfoNutriz
+------------------------------------------------------------------------------------
+									Metodi:
+	+ Piatto()
+	+ Piatto(Nome: String, Tipo: Type, Info: InfoNutriz)
+	+ setNome(Nome : String) : void
+	+ getNome() : String
+	+ setTipo(n : int) : void
+	+ getTipo() : int
+	+ setInfo(c : float, f : float, p : float) : void
+	+ getInfo() : String
+	+ getCarbs() : float
+	+ getFat() : float
+	+ getProteins() : float
+	+ toString() : String
+------------------------------------------------------------------------------------

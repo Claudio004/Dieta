@@ -1,1 +1,18 @@
-
+									Pasto
+------------------------------------------------------------------------------------
+								  Attributi:
+	- Piatti : Vector<Piatto>
+	- Carbs : float
+	- Fat : float
+	- Proteins : float
+------------------------------------------------------------------------------------
+									Metodi:
+	+ Pasto()
+	+ addPiatto(type : int) : boolean
+	+ adderPiatto(P : Piatto, type : int) : void
+	+ getPiatto(index : int) : String
+	+ getInfoNutriz() : String //somma delle info nutrizionali dei piatti di questo pasto
+	+ equilibrato() : boolean
+	+ returnElements() : int
+	+ toString() : String
+------------------------------------------------------------------------------------
